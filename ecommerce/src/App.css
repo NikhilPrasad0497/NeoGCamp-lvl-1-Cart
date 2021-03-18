@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.Card{
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Card-dark{
+  background-color: black;
+  border: 1px solid white;
+  margin: 1rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-1{
+  align-self: center;
+  background-color: darkgrey;
+  padding: 1rem;
+  margin: 1rem;
+}
